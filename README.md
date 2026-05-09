@@ -15,6 +15,7 @@ https://github.com/user-attachments/assets/5ca3c0bc-9c07-405e-953b-f021a8d32ab0
 - Support binding manifest to prevent specific games from being updated, it will be writen to `appinfo.vdf` so if you don't want to bind anymore, just delete the corresponding entry in `appinfo.vdf` and delete this bind from Lua.
 - Using the 480 AppID network spoof for Online-Fix
 - Patch All SteamStub Variant.
+- Fix error game launch error code 86 & 54 for UE Games
   
 ### Family Sharing and Remote Play
 - Bypass Steam Family Sharing restrictions, allowing shared games to be played without limitations.
@@ -34,7 +35,7 @@ https://github.com/user-attachments/assets/5ca3c0bc-9c07-405e-953b-f021a8d32ab0
 - Full Steam Cloud synchronization support. (Completed)
 
 ### TO-DO
-- Fix error game launch error code 86 & 54
+- None
 
 ## Disclaimer
 This project is provided for research and educational purposes only. You are responsible for complying with local laws, platform terms of service, and software licenses.
