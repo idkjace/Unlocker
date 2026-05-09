@@ -1,5 +1,5 @@
 ## Preview syncing if i delete the local saves
-https://github.com/user-attachments/assets/04bae0df-ff67-415a-95b2-6ec9023ad511
+https://github.com/user-attachments/assets/faf972f2-163b-46fd-bf62-3d66ebc43e0d
 
 ## Feature
 
