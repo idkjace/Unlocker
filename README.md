@@ -1,6 +1,9 @@
 ## Preview syncing if i delete the local saves
 https://github.com/user-attachments/assets/faf972f2-163b-46fd-bf62-3d66ebc43e0d
 
+## Denuvo Authorization without ETicket and AppTicket
+https://github.com/user-attachments/assets/5ca3c0bc-9c07-405e-953b-f021a8d32ab0
+
 ## Feature
 
 ### Core Unlocks
