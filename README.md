@@ -16,6 +16,7 @@ https://github.com/user-attachments/assets/5ca3c0bc-9c07-405e-953b-f021a8d32ab0
 - Using the 480 AppID network spoof for Online-Fix
 - Patch All SteamStub Variant.
 - Fix error game launch error code 86 & 54 for UE Games
+- Spoof playing status of what you playing
   
 ### Family Sharing and Remote Play
 - Bypass Steam Family Sharing restrictions, allowing shared games to be played without limitations.
@@ -35,7 +36,7 @@ https://github.com/user-attachments/assets/5ca3c0bc-9c07-405e-953b-f021a8d32ab0
 - Full Steam Cloud synchronization support. (Completed)
 
 ### TO-DO
-- Spoof playing status
+- None
 
 ## Disclaimer
 This project is provided for research and educational purposes only. You are responsible for complying with local laws, platform terms of service, and software licenses.
