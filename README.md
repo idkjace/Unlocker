@@ -35,7 +35,7 @@ https://github.com/user-attachments/assets/5ca3c0bc-9c07-405e-953b-f021a8d32ab0
 - Full Steam Cloud synchronization support. (Completed)
 
 ### TO-DO
-- None
+- Spoof playing status
 
 ## Disclaimer
 This project is provided for research and educational purposes only. You are responsible for complying with local laws, platform terms of service, and software licenses.
