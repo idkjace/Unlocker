@@ -22,9 +22,7 @@ https://github.com/user-attachments/assets/5ca3c0bc-9c07-405e-953b-f021a8d32ab0
 - Bypass Steam Family Sharing restrictions, allowing shared games to be played without limitations.
 
 ### Compatible with games protected by Denuvo and SteamStub
-- For AppTicket and ETicket: in `HKEY_CURRENT_USER\Software\Valve\Steam\Apps\{AppId}`, both `AppTicket` and `ETicket` are `REG_BINARY` values.
-- Use `setAppTicket(appid, "hex")` and `setETicket(appid, "hex")` in Lua config to write these values to the registry automatically.
-- SteamID priority: read `SteamID` as `REG_SZ` (numeric-only) first; if missing, parse from `AppTicket`.
+- Denuvo Authorization by just playing once on owned account.
 - For games protected by Denuvo and SteamStub, find a safe timing to switch `GetSteamID` (see `src/Hook/Hooks_IPC.cpp#Handler_IClientUser_GetSteamID`) so save files are not affected. (Completed)
 
 ### Stats and Achievements
