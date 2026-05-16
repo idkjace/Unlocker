@@ -26,15 +26,14 @@ https://github.com/user-attachments/assets/5ca3c0bc-9c07-405e-953b-f021a8d32ab0
 - For games protected by Denuvo and SteamStub, find a safe timing to switch `GetSteamID` (see `src/Hook/Hooks_IPC.cpp#Handler_IClientUser_GetSteamID`) so save files are not affected. (Completed)
 
 ### Stats and Achievements
-- Enable stats and achievements for unowned games.
-- Uses `setStat(appid, "steamid")` to configure which SteamID's achievement data to pull.
-- If no `setStat` is configured for an app, falls back to the hardcoded default SteamID `76561198028121353`.
+- Fully working Stats and Achievements
+- Now it will fetch using setstat from the default steamid if its fails then fallback to the local implemented achievement system
 
 ### Steam Cloud using Cloud Redirect Integration
 - Full Steam Cloud synchronization support. (Completed)
 
 ### TO-DO
-- Fully working Stats and Achievements
+- None
 
 ## Disclaimer
 This project is provided for research and educational purposes only. You are responsible for complying with local laws, platform terms of service, and software licenses.
