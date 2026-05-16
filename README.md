@@ -4,6 +4,9 @@ https://github.com/user-attachments/assets/faf972f2-163b-46fd-bf62-3d66ebc43e0d
 ## Denuvo Authorization without ETicket and AppTicket
 https://github.com/user-attachments/assets/5ca3c0bc-9c07-405e-953b-f021a8d32ab0
 
+## Achievement Works on Game that is not popular: Sussy Cat
+<img width="2560" height="1380" alt="image" src="https://github.com/user-attachments/assets/a9c6581e-8b01-4c3c-873b-7933e582b5d0" />
+
 ## Feature
 
 ### Core Unlocks
