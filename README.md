@@ -37,7 +37,7 @@ https://github.com/user-attachments/assets/30c89470-5bc3-4092-abda-e6dc7136f1ac
 - Full Steam Cloud synchronization support. (Completed)
 
 ### TO-DO
-- None
+- Build auto resolver for RVA and Pattern Dumper for each updates.
 
 ## Disclaimer
 This project is provided for research and educational purposes only. You are responsible for complying with local laws, platform terms of service, and software licenses.
